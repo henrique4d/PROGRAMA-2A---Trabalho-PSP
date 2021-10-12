@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TimeTeste" project="PROGRAMA 2A - Trabalho PSP" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="Models.TimeTeste" time="0.064" displayname="TimeTeste" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]">
+    <testcase name="testeSetInscricao" classname="Models.TimeTeste" time="0.061" displayname="testeSetInscricao()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetInscricao()]"/>
+    <testcase name="testeSetAtacante" classname="Models.TimeTeste" time="0.002" displayname="testeSetAtacante()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetAtacante()]"/>
+  </testsuite>
+</testrun>

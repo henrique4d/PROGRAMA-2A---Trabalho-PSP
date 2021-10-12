@@ -1,0 +1,23 @@
+package Models;
+import static org.junit.Assert.assertEquals;
+
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+import org.junit.Before;
+import org.junit.jupiter.api.Test;
+
+public class TimeTeste {
+	Time time;
+	
+	@Before
+    public void init(){
+        time = new Time();
+    }
+    @Test
+    public void testeAtacante() {
+    	time.set_pontos(10);
+    	int result = time.pontos;
+    	assertEquals(result, 10);
+    }
+}

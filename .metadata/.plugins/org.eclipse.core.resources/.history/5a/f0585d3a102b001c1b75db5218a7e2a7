@@ -1,0 +1,55 @@
+package Models;
+
+public class Time {
+	public Integer pontos = 0;
+	public Integer inscricao = 1;
+	public Integer feitos = 0;
+	public Integer tomados = 0;
+	
+	public Time() {
+		pontos = 0;
+		inscricao = 1;
+		feitos = 0;
+		tomados = 0;
+	}
+	
+	public void set_pontos(Integer pontos) {
+		this.pontos = pontos;
+	}
+	
+	public void set_inscricao(Integer inscricao) {
+		this.inscricao = inscricao;
+	}
+	
+	
+	public void set_feitos(Integer feitos) {
+		this.feitos = feitos;
+	}
+
+	public void set_tomados(Integer tomados) {
+		this.tomados = tomados;
+	}
+	
+	public Integer get_pontos() {
+		return pontos;
+	}
+	
+	public Double get_cesta_average() {
+		if (tomados == 0) return (double) feitos;
+		return ((double) feitos)/tomados;
+	}
+
+	public Integer get_inscricao() {
+		return inscricao;
+	}
+	
+	public Integer get_feitos() {
+		return feitos;
+	}
+	
+	public Integer get_tomados() {
+		return tomados;
+	}
+	
+	
+}

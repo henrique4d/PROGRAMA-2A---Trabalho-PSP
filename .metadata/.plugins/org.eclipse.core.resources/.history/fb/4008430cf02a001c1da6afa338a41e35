@@ -1,0 +1,22 @@
+import java.util.Vector;
+
+import Models.Time;
+
+import java.util.Collections;
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args){
+		Vector <Time> times = new Vector<Time>();
+		Scanner sc = new Scanner(System.in);
+		Integer numero_times = sc.nextInt();
+		for (int i=0; i<numero_times; i++) {
+			Time aux = new Time();
+			aux.setInscricao(i+1);
+			times.add(aux);
+		}
+	
+	}
+	
+
+}

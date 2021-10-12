@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/home/henrique/Documents/Curso/INF 221/PROGRAMA 2A - Trabalho PSP
+/.metadata/.plugins/org.eclipse.jdt.core
+1821131244.index
+3779932175.index
+1927486917.index
+2724390690.index
+1205906427.index
+256904957.index
+373211403.index
+1865797976.index
+392128827.index
+1513746939.index
+534906600.index
+3648701861.index
+1917073723.index
+646308851.index
+113377160.index
+1700028984.index

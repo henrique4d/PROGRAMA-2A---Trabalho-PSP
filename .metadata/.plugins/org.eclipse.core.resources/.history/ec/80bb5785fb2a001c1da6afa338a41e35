@@ -1,0 +1,63 @@
+package Models;
+import java.util.Vector;
+import java.util.Collections;
+import java.util.Scanner;
+
+
+public class Time {
+	public Integer pontos;
+	public Integer cesta_average;
+	public Integer inscricao;
+	public Integer feitos;
+	public Integer tomados;
+	
+	public void Time() {
+		pontos = 0;
+		cesta_average = 0;
+		inscricao = 1;
+		feitos = 0;
+		tomados = 0;
+	}
+	
+	public void set_pontos(Integer pontos) {
+		this.pontos = pontos;
+	}
+	
+	public void set_inscricao(Integer inscricao) {
+		this.inscricao = inscricao;
+	}
+	
+	public void set_cesta_average() {
+		
+	}
+	
+	public void set_feitos(Integer feitos) {
+		this.feitos = feitos;
+	}
+
+	public void set_tomados(Integer tomados) {
+		this.tomados = tomados;
+	}
+	
+	public Integer get_pontos() {
+		return pontos;
+	}
+	
+	public Integer get_cesta_average() {
+		return cesta_average;
+	}
+
+	public Integer get_inscricao() {
+		return inscricao;
+	}
+	
+	public Integer get_feitos() {
+		return feitos;
+	}
+	
+	public Integer get_tomados() {
+		return tomados;
+	}
+	
+	
+}

@@ -1,0 +1,37 @@
+import java.util.Vector;
+import java.util.Collections;
+import java.util.Scanner;
+
+
+public class Time {
+	public Integer pontos;
+	public Integer cesta_average;
+	public Integer inscricao;
+	
+	public void Time() {
+		pontos = 0;
+		cesta_average = 0;
+		inscricao = 1;
+	}
+	
+	public void setPontos(Integer pontos) {
+		this.pontos = pontos;
+	}
+	
+	public void setInscricao(Integer inscricao) {
+		this.inscricao = inscricao;
+	}
+	
+	public void setCesta_average() {
+		
+	}
+	
+	public Integer getPontos() {
+		return pontos;
+	}
+	
+	public Integer get_cesta_average() {
+		return cesta_average;
+	}
+	
+}

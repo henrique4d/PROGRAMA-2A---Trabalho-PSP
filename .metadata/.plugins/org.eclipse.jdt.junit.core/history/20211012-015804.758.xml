@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TimeTeste (1)" project="PROGRAMA 2A - Trabalho PSP" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="Models.TimeTeste" time="0.076" displayname="TimeTeste" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]">
+    <testcase name="testeGetAverage0" classname="Models.TimeTeste" time="0.044" displayname="testeGetAverage0()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetAverage0()]"/>
+    <testcase name="testeGetTomados" classname="Models.TimeTeste" time="0.0" displayname="testeGetTomados()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetTomados()]"/>
+    <testcase name="testeSetInscricao" classname="Models.TimeTeste" time="0.003" displayname="testeSetInscricao()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetInscricao()]"/>
+    <testcase name="testeMain" classname="Models.TimeTeste" time="0.002" displayname="testeMain()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeMain()]"/>
+    <testcase name="testeGetAverage" classname="Models.TimeTeste" time="0.001" displayname="testeGetAverage()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetAverage()]"/>
+    <testcase name="testeSetAtacante" classname="Models.TimeTeste" time="0.002" displayname="testeSetAtacante()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetAtacante()]"/>
+    <testcase name="testeSetTomados" classname="Models.TimeTeste" time="0.001" displayname="testeSetTomados()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetTomados()]"/>
+    <testcase name="testeGetAtacante" classname="Models.TimeTeste" time="0.001" displayname="testeGetAtacante()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetAtacante()]"/>
+    <testcase name="testeSetFeitos" classname="Models.TimeTeste" time="0.002" displayname="testeSetFeitos()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeSetFeitos()]"/>
+    <testcase name="testeGetInscricao" classname="Models.TimeTeste" time="0.001" displayname="testeGetInscricao()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetInscricao()]"/>
+    <testcase name="testeGetFeitos" classname="Models.TimeTeste" time="0.002" displayname="testeGetFeitos()" uniqueid="[engine:junit-jupiter]/[class:Models.TimeTeste]/[method:testeGetFeitos()]"/>
+  </testsuite>
+</testrun>
